@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Sandbox Pruebas Foilfix",
+            "request": "launch",
+            "type": "al",
+            "tenant": "de5e0e0d-9760-446f-a33f-6b4c4672c5b6",
+            "environmentType": "Sandbox",
+            "environmentName": "Pruebas",
+            "startupObjectId": 9006,
+            "startupObjectType": "Page",
+            "schemaUpdateMode": "ForceSync"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "0d879509-5a5f-4901-b9c6-b721e8399471",
+  "name": "foilfix-s-l-",
+  "publisher": "LiderIT",
+  "version": "1.0.0.0",
+  "brief": "Personalizaciones foilfix-s-l-",
+  "description": "Personalizaciones foilfix-s-l-",
+  "privacyStatement": "http://www.liderit.es",
+  "EULA": "http://www.liderit.es",
+  "help": "http://www.liderit.es",
+  "url": "http://www.liderit.es",
+  "logo": "res/logo.png",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "21.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "contextSensitiveHelpUrl": "http://www.liderit.es",
+  "runtime": "10.0",
+  "target": "Cloud",
+  "features": [
+    "TranslationFile",
+    "NoImplicitWith"
+  ]
+}
